@@ -15,8 +15,11 @@ This project involves an **Exploratory Data Analysis (EDA)** of Diwali sales dat
 ## Dataset
 
  **File Name:** `Diwali Sales Data.csv`
+ 
  **Records:** ~1,100+ customer transactions.
+ 
  **Columns Include:**
+ 
   - `User_ID`: Unique customer ID (dropped for anonymity).
   - `Gender`: Male or Female.
   - `Age Group`: Customer's age range.
